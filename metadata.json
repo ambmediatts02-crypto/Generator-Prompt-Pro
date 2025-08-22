@@ -1,0 +1,5 @@
+{
+  "name": "Generator Prompt Pro",
+  "description": "A web application to generate high-quality videos from text prompts and reference images using Google's state-of-the-art VEO model. Customize aspect ratio, sound, and resolution for your creations.",
+  "requestFramePermissions": []
+}
